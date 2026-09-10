@@ -46,3 +46,8 @@ docker-compose logs -f
 ## 📄 License
 
 MIT
+
+
+## Prerequisites
+- Required environment and dependencies
+
